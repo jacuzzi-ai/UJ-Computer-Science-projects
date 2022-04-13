@@ -21,8 +21,8 @@ functions.
 you would like to consume, eg. /api/GrayScale (one of each category must be used):
 
 Your program must utilize image processing techniques:pre-processing, feature-extraction and image classification. 
-# PROJECT 2 - Utopian Smart Contract 
-# Project Requirement 
+## PROJECT 2 - Utopian Smart Contract 
+### Project Requirement 
 The project demonstrates your understanding and proficiency with the concepts discussed
 in class and how they can be applied within a specific domain to solve a problem. You might
 need to make use of data structures we have not yet covered in class. In this case you will
