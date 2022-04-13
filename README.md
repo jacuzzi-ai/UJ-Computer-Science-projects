@@ -1,8 +1,8 @@
 # My-UJ-Computer-Science-projects
 
-# PROJECT 1 - UJ Covid-19 Facial recognizer 
+## PROJECT 1 - UJ Covid-19 Facial recognizer 
 
-# Project Requirement 
+### Project Requirement 
 Identify a problem that is relevant to the Fourth Industrial Revolution. Implement a Java
 Graphical User Interface-based client (Swing, JavaFX or Web-based with Javascript) that
 collects image-based data (such as images or video) from a particular source (such as stored
