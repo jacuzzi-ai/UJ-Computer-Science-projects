@@ -33,3 +33,6 @@ records (called blocks), where each block links to the previous block using cryp
 block contains cryptographic hash, timestamp and data relevant to its application. Think of
 it as a distributed ledger where instead of information being stored in a database it is stored
 on the blockchain. 
+
+Your task is to develop a Java network-based application that uses the provided graph ADT at its core.It must be a decentralized application that is facilitated by the peer-to-peer network. 
+Example to consider include smart contract,voting system, Healthcare system for storing patient records. etc
