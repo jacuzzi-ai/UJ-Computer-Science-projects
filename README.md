@@ -27,7 +27,7 @@ The project demonstrates your understanding and proficiency with the concepts di
 in class and how they can be applied within a specific domain to solve a problem. You might
 need to make use of data structures we have not yet covered in class. In this case you will
 need to research the implementation of the appropriate data structure.
-# Theme:Network Based-Blockchains 
+Theme:Network Based-Blockchains 
 The theme for the Project are network-based Blockchains. A blockchain is a collection of
 records (called blocks), where each block links to the previous block using cryptography. Each
 block contains cryptographic hash, timestamp and data relevant to its application. Think of
