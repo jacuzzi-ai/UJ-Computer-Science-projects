@@ -3,6 +3,7 @@
 # PROJECT 1
 
 # Network Project
+#Project Requirement 
 Identify a problem that is relevant to the Fourth Industrial Revolution. Implement a Java
 Graphical User Interface-based client (Swing, JavaFX or Web-based with Javascript) that
 collects image-based data (such as images or video) from a particular source (such as stored
@@ -39,6 +40,7 @@ structuring element.
 Fast(image) A function that returns an image with the fast corners drawn on it
 
 # PROJECT 2
+# Project Requirement 
 The project demonstrates your understanding and proficiency with the concepts discussed
 in class and how they can be applied within a specific domain to solve a problem. You might
 need to make use of data structures we have not yet covered in class. In this case you will
