@@ -58,7 +58,9 @@ Java and JavaFX
 
 ## Project 3 - JavaFx game - Utopian Forest
 
-### Description : The purpose of this project was to create a game using the abstract factory and visitor design patterns. 
+### Description :
+
+The purpose of this project was to create a game using the abstract factory and visitor design patterns. 
 
 ### Project Requirement / Objective:
 
@@ -69,9 +71,13 @@ Remember the following aspects of game design:
 at beginning of level, etc.)
 - Your game must have one or more end states (eg. death, victory, high score, completing
 the level, etc.)
+- Your game must be abstracted using two design pattern with the visitor design pattern compulsory. 
 -You must have a suitable gameplay loop to get the player from the start state to the end
 state (this should have game mechanics that help you get from the start to the end states)
 
--Your game can be either player‐driven (wait for player to do something) or continuous
+- Your game can be either player‐driven (wait for player to do something) or continuous
 interaction (game runs using the animation timer without requiring player input)
 - You must have a visual game (you draw shapes or images onto a Canvas)
+
+## Built with :
+Java and JavaFX 
