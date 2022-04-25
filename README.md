@@ -6,7 +6,7 @@
 
 Project is about creating a facial recognition program to replace the delinked biometric scanners at the University of Johannesburg entrance gates, for the use of the UJ Community . 
 
-### Project Requirement / Objective :
+### Project Requirement / Objective:
 
 Identify a problem that is relevant to the Fourth Industrial Revolution. Implement a Java
 Graphical User Interface-based client (Swing, JavaFX or Web-based with Javascript) that
@@ -35,7 +35,7 @@ Java, JavaFx, openCV (Haar-cascade classifier and LBPH algorithm)
 
 ### Description :
 
-The purpose of the project was creating a smart contract for pawn shops that will automate the processes of the pawning, buying and selling of goods given the pandemic. 
+The purpose of the project was creating a smart contract for pawn shops that will automate the processes of the pawning, buying and selling of goods given the pandemic,using blockchain technology and a graph ADT. 
 
 ### Project Requirement / Objective:
 
