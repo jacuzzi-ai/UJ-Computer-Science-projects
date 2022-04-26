@@ -60,7 +60,7 @@ Java and JavaFX
 
 ### Description :
 
-The purpose of this project was to create a game using the abstract factory and visitor design patterns.I created a game where the bot in the forest battles against incoming bird species.The bot shoots the birds to increment its score and the bot health decrements whenever the birds fly over him. 
+The purpose of this project was to create a game using the abstract factory and visitor design patterns.I created a game where the bot in the forest battles against incoming wild species.The bot shoots the species to increment its score and the bot health decrements whenever the birds fly over him. 
 
 ### Project Requirement / Objective:
 
