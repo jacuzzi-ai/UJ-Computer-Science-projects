@@ -2,7 +2,7 @@
 
 ### Description :
 
-The purpose of this project was to create a game using the abstract factory and visitor design patterns.I created a game where the bot in the forest battles against incoming wild species.The bot shoots the species to increment its score and the bot health decrements whenever the species approach over him. 
+The purpose of this project was to create a game using the abstract factory and visitor design patterns.I created a game where the bot in the forest battles against incoming wild species.The bot shoots the species to increment its score and the bot health decrements whenever the species attack him. 
 
 ### Project Requirement / Objective:
 
