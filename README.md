@@ -1,1 +1,1 @@
-## This projects were only created for educational purposes!! 
+## These projects were only created for educational purposes!! 
